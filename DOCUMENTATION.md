@@ -74,8 +74,7 @@ $ git clone --recursive https://github.com/purpleidea/vagrant-builder
 $ cd vagrant-builder/v7/
 ```
 
-You'll need to have the virt-builder software installed. It is available in
-most distro repositories.
+You'll need to have `virt-builder` installed. This is in the Red Hat RPM virt-builder and the Debian/Ubuntu package libguestfs-tools.
 
 That's it!
 
